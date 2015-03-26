@@ -4,7 +4,7 @@ Donate link: http://wp.szmake.net/donate/
 Tags: token, ajax, spambot, antispam, captcha, spam, form, forms, contact form 7, contactform7, contact form, cf7, Contact Forms 7
 Requires at least: 3.8.3
 Tested up to: 4.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 
@@ -110,12 +110,16 @@ The visiter can post message without JavaScript.when must be enter token-code ma
 
 == Changelog ==
 
+= 1.0.1 =
+* The first release.  
+
 = 1.0.0 =
 * The first release.  
 
 == Contact ==
 
 email to contact[at]szmake.net  
+
 twitter @sxmtz  
 
 

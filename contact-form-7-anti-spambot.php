@@ -4,14 +4,14 @@ Plugin Name: Contact Form 7 Anti Spambot
 Plugin URI: http://wordpress.org/plugins/contact-form-7-anti-spambot/
 Description: No spam in the Contact Form 7.Add anti-spambot functionality to the CF7,it blocks spam without using CAPTCHA.To get started: 1) Click the 'Activate' link to the left of this description, 2) Edit a form in Contact Form 7, and insert the generated 'Anti-Spambot' tag anywhere in your form.
 Author: SzMake
-Version: 1.0.0
+Version: 1.0.1
 Author URI: http://www.szmake.net/
 Text Domain: contact-form-7-anti-spambot
 Domain Path: /languages/
 License: GPLv3
 */
 
-define('CF7ASB_VERSION', '1.0.0');
+define('CF7ASB_VERSION', '1.0.1');
 define('CF7ASB_DOMAIN', 'contact-form-7-anti-spambot');
 define('CF7ASB_PLUGIN_URL', untrailingslashit( plugins_url( '', __FILE__ ) ) );
 define('CF7ASB_KEYSEP', '-');
