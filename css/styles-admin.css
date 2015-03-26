@@ -1,0 +1,60 @@
+div.wpcf7asb-panel-info{
+    margin-bottom: 50px;
+}
+
+#wpcf7asb_loglist .dathead {
+    padding:5px;
+    font-weight: normal;
+    font-family: Arial;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    background: #505050;;
+    cursor: pointer;
+    color: #aaa;
+    overflow: hidden;
+}
+#wpcf7asb_loglist .dhead1{ width:240px;height: 1.4em;float:left;}
+#wpcf7asb_loglist .dhead2{ width:210px;height: 1.4em;float:left;}
+#wpcf7asb_loglist .dhead3{ width:140px;height: 1.4em;float:left;}
+#wpcf7asb_loglist .dhead4{ width:240px;height: 1.4em;float:left;}
+
+#wpcf7asb_loglist .ditail {
+    padding: 5px;
+    font-family: Arial;
+    font-size: 13px;
+    border: 1px solid #ddd;
+    background: #aaa;
+    overflow: hidden;
+}
+
+#wpcf7asb_loglist table{
+    width: 100%;
+    border-collapse: collapse;
+}
+#wpcf7asb_loglist table,
+#wpcf7asb_loglist table th,
+#wpcf7asb_loglist table td
+{
+    border: solid 1px #777;
+}
+#wpcf7asb_loglist table th,
+#wpcf7asb_loglist table td
+{
+    padding-left: 0.5em;
+    padding-right: 0.5em;    
+}
+#wpcf7asb_loglist table th
+{
+    background-color: #ccc;
+    text-align: center;
+}
+
+#wpcf7asb_loglist .field_name 
+{
+    width: 16em;
+}
+
+#wpcf7asb_loglist table td.post_key
+{
+    white-space: nowrap;
+}

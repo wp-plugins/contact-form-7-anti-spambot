@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: contact-form-7-anti-spambot 1.0.0\n"
+"POT-Creation-Date: 2015-03-23 10:08+0900\n"
+"PO-Revision-Date: 2015-03-23 11:08+0900\n"
+"Last-Translator: SzMake <sakamoto@szmake.net>\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../cf7asb-admin.php:57
+#, php-format
+msgid "Total %s spam posts were blocked."
+msgstr "累計 %s 回スパム投稿をブロックしました。"
+
+#: ../cf7asb-admin.php:61
+msgid "Blocked Count Reset"
+msgstr "ブロック回数リセット"
+
+#: ../cf7asb-admin.php:61
+msgid "Are you sure you want to reset?"
+msgstr "本当にリセットしてよろしいですか？"
+
+#: ../cf7asb-admin.php:66
+#, php-format
+msgid "[The blocked post of latest %d cases]"
+msgstr "[ブロック履歴 直近の %d 件]"
+
+#: ../cf7asb-admin.php:140
+msgid "Show Report"
+msgstr "レポート表示"
+
+#: ../cf7asb-admin.php:142
+msgid "Apply"
+msgstr ""
+
+#: ../contact-form-7-anti-spambot.php:75
+msgid "Please enable javascript."
+msgstr "JavaScriptを有効にしてください。"
+
+#: ../contact-form-7-anti-spambot.php:77
+msgid "Or you can post by following procedure."
+msgstr "あるいは下記手順で投稿できます。"
+
+#: ../contact-form-7-anti-spambot.php:79
+msgid "1.Please click on the link [GET TOKEN-CODE],then it is displayed."
+msgstr "1.「トークンコード取得」を押すと枠内にトークンコードが表示されます"
+
+#: ../contact-form-7-anti-spambot.php:81
+msgid "2.Enter displayed token-code to \"TOKEN INPUT\"."
+msgstr "2.表示されたトークン文字を「投稿確認トークン入力」へ入力します"
+
+#: ../contact-form-7-anti-spambot.php:84
+msgid "GET TOKEN-CODE"
+msgstr "トークンコード取得"
+
+#: ../contact-form-7-anti-spambot.php:97
+msgid "TOKEN INPUT"
+msgstr "投稿確認トークン入力"
+
+#: ../contact-form-7-anti-spambot.php:100
+msgid "Honeypot(Input unnecessary)"
+msgstr "スパムボット対策ダミー入力（空欄でOK）"
+
+#: ../contact-form-7-anti-spambot.php:172
+msgid "[anti-spambot]Sender doesn't enter the valid token-code.(when javascript disabled browser)"
+msgstr "投稿確認トークンコード入力が不正なとき(JavaScript無効の場合)"
+
+#: ../contact-form-7-anti-spambot.php:173
+msgid "The input token is invalid."
+msgstr "投稿確認トークンコードが正しくありません。"
+
+#: ../contact-form-7-anti-spambot.php:175
+msgid "[anti-spambot]Sender doesn't enter the token-code.(when javascript disabled browser)"
+msgstr "投稿確認トークンコードが未入力のとき(JavaScript無効の場合)"
+
+#: ../contact-form-7-anti-spambot.php:176
+msgid "The input token is empty."
+msgstr "投稿確認トークンコード入力が未入力です。"
+
+#: ../contact-form-7-anti-spambot.php:178
+msgid "[anti-spambot]Sender does enter the field of honeypot.(when css disabled browser)"
+msgstr "[anti-spambot]スパムボット対策ダミー入力に入力がある(CSS非対応の場合)"
+
+#: ../contact-form-7-anti-spambot.php:179
+msgid "The honeypot field is not input unnecessary."
+msgstr "スパムボット対策ダミー入力は空欄でお願いします。"
+
+#: ../contact-form-7-anti-spambot.php:237
+msgid "Name"
+msgstr ""
+
+#: ../contact-form-7-anti-spambot.php:245
+msgid "optional"
+msgstr ""
+
+#: ../contact-form-7-anti-spambot.php:251
+msgid "Copy this code and paste it into the form left."
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "No spam in the Contact Form 7.Add anti-spambot functionality to the CF7,it blocks spam without using CAPTCHA.To get started: 1) Click the 'Activate' link to the left of this description, 2) Edit a form in Contact Form 7, and insert the generated 'Anti-Spambot' tag anywhere in your form."
+msgstr "ContactForm7のスパムボット対策。CF7へ機能追加をしてCAPTCHAなしでスパムボットからの投稿を防ぎます。導入方法:1）今読んでいるこの説明の左側にある「有効化」リンクをクリック 2)CF7の「コンタクトフォームの編集」でフォームの設計要素に'Anti-Spambot'タグを追加して保存してください。"
+
